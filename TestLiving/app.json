@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/testpage/testpage",
+    "pages/navigator/testnavigator"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "SSSSB",
+    "navigationBarTextStyle": "white"
+  }
+}

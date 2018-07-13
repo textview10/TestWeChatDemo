@@ -1,0 +1,9 @@
+<!--pages/testpage/testpage.wxml-->
+<view class='container'>
+<view>
+    <text>11111 {{name}} ...</text>
+   
+</view>
+
+</view>
+ <button bindtap="changeName">222222</button>
